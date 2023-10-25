@@ -1,0 +1,978 @@
+@media (max-width:1200px) {
+    header {
+        height: auto;
+        width: auto;
+    }
+
+    .logo h3 {
+        font-size: 28px;
+    }
+
+    .navigation {
+        /* height: auto; */
+        width: 100%;
+        padding: 40px;
+    }
+
+    ul li {
+        padding-left: 30px;
+    }
+
+    ul li a {
+        font-size: 20px;
+    }
+
+    .image img {
+        /* display: none; */
+    }
+
+    /* navigation part is close */
+
+    
+.plant 
+{
+    position: absolute;
+    left:40%;
+    top:780px;
+}
+
+
+.text h1 
+{
+    font-size: 50px;
+   
+}
+.text h2 
+{
+    
+    font-size: 28px;
+}
+
+.text p 
+{
+    
+    font-size: 32px;
+}
+
+
+.box h3 
+{
+    font-size: 20px;
+}
+
+
+.fa-angle-down
+{
+    font-size: 20px;
+}
+.box button
+{
+    margin: 28px;
+}
+/* container part is close */
+/* header part is close */
+
+
+.section-1 .card 
+{
+    height: 500px;
+    width: 100%;
+}
+/* <!-- section-1 part is close --> */
+
+
+.tableshow .table-1 
+{
+    margin-right: 10px;
+}
+.img-1 button
+{
+    margin-left: 60px;
+}
+
+
+.img-2 img 
+{
+    padding-left: 00px;
+}
+
+/* covid part is close */
+
+
+.Plant-1
+{
+    position: absolute;
+    left: 400px;
+    top: 0px;
+}
+
+/* container-2 part is close */
+
+.container-3 .fresh
+{
+    margin-right: 0px;
+}
+
+
+/* container-3 part is close */
+/* section-2 is close */
+/* section-3 is close */
+ 
+footer .footer-1
+{
+    flex-direction: column;
+}
+.input h1
+{
+    text-align: center;
+}
+}
+
+
+
+
+@media (max-width:992px) {
+
+    .image img {
+        position: absolute;
+        left: 70%;
+        top: 200px;
+
+    }
+
+    .logo h3 {
+        font-size: 25px;
+    }
+
+
+    /* navigation part is close */
+
+
+    .container .text {
+        height: 500px;
+        width: 100%;
+    }
+
+    .container .background {
+        height: 500px;
+        width: 100%;
+        margin-top: 30px;
+    }
+
+    
+.plant 
+{
+    position: absolute;
+    left:46%;
+    top:620px;
+}
+
+.table
+{
+    margin: 0px auto;
+}
+/* container part is close */
+/* header part is close */
+
+
+.table .box
+{
+    margin-right: 10px;
+}
+
+/* <!-- section-1 part is close --> */
+
+
+.tableshow .table-1 
+{
+    margin-right: 10px;
+}
+
+.img-1 button
+{
+    margin-left: 50px;
+}
+
+.img-2 img 
+{
+    padding-left: 0px;
+    height: 100%;
+    width: 100%;
+}
+
+.word img 
+{
+    padding-left: 0px;
+    height: 100%;
+    width: 100%;
+}
+
+/* covid part is close */
+
+.imggg-1
+{
+    height: 100px;
+    width: 100px;
+}
+.Plant-1
+{
+    position: absolute;
+    left: 390px;
+    top: 0px;
+    height: 100px;
+    width: 100px;
+}
+/* container-2 part is close */
+
+.container-3 .fresh
+{
+    margin-right: 0px;
+}
+/* container-3 part is close */
+
+/* section-2 is close */
+
+.input .iconss
+{
+    justify-content: center;
+}
+.iconss h6
+{
+    display: none;
+}
+
+img 
+{
+    height: 100px;
+    width: 100px;
+}
+
+.table-1 img 
+{
+    height: 100%;
+    width: 100%;
+}
+
+.one .twoline
+{
+    margin: 10px;
+}
+
+}
+
+
+
+@media (max-width:768px) {
+
+    .logo h3 {
+        font-size: 22px;
+    }
+
+    ul li {
+        padding-left: 10px;
+    }
+
+    ul li a {
+        font-size: 20px;
+    }
+
+    .button .sign {
+        height: 35px;
+        width: 130px;
+    }
+
+    .image img {
+        position: absolute;
+        left: 60%;
+        top: 180px;
+
+    }
+
+    /* navigation part is close */
+
+
+    .container {
+        height: auto;
+        width: 100%;
+        flex-direction: column;
+
+    }
+
+    .container .text {
+        height: 500px;
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .container .background {
+        height: 500px;
+        width: 100%;
+        margin-top: 30px;
+    }
+    
+.plant 
+{
+    position: absolute;
+    left:0%;
+    top:930px;
+}
+
+
+
+.text h1 
+{
+    font-size: 50px;
+    text-align: center;
+   
+}
+.text h2 
+{
+    
+    font-size: 28px;
+    text-align: center;
+}
+
+.text p 
+{
+    
+    font-size: 32px;
+    text-align: center;
+}
+.expole
+{
+    margin-left: 160px;
+    margin-top: 50px;
+}
+.seemenu
+{
+    margin-left: 50px;
+}
+
+.table
+{
+    width: 100%;
+}
+
+label
+{
+    padding-left: 50px;
+  
+}
+.fa-sharp
+{
+  
+    padding-left: 10px;
+    
+}
+
+
+.box button
+{
+    margin: 28px;
+    height: 70px;
+    width: 150px;
+}
+
+
+/* container part is close */
+/* header part is close */
+
+.table .box
+{
+    margin-right: 10px;
+}
+.section-1
+{
+
+    height: auto;
+    width: 100%;
+}
+.section-1 .card 
+{
+    width: 100%;
+    height: 500px;
+}
+.card .card-2
+{
+    margin-right: 10px;
+}
+
+.button button
+{
+    margin-left: 15px;
+}
+
+/* <!-- section-1 part is close --> */
+
+
+.tableshow .table-1 
+{
+    margin-right: 10px;
+}
+
+.img-1 button
+{
+    margin-left: 10px;
+}
+
+/* covid part is close */
+
+.story .textword
+{
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+
+
+.imggg-1
+{
+    height: 80px;
+    width: 80px;
+}
+.Plant-1
+{
+    position: absolute;
+    left: 280px;
+    top: 0px;
+    height: 80px;
+    width: 80px;
+}
+/* container-2 part is close */
+
+.container-3 .fresh
+{
+    margin-right: 0px;
+}
+/* container-3 part is close */
+
+
+/* section-2 is close */
+
+.maninfo .manimg
+{
+    width: 100%;
+    height: 100%;
+}
+.table-1 img 
+{
+    height: 100%;
+    width: 100%;
+}
+
+/* section-3 is close */
+
+img 
+{
+    /* display: none; */
+}
+
+.form .formfill
+{
+    width: 100%;
+}
+
+.input h1 
+{
+    font-size: 25px;
+    text-align: center;
+}
+.input input 
+{
+    height: 20px;
+    width: 280px;
+}
+.iconss h6 
+{
+ display: none;
+}
+.text-1 h2 
+{
+    font-size: 20px;
+}
+.facebook
+{
+    height: 50px;
+    width: 50px;
+}
+.text-1 li
+{
+    padding: 8px;
+    font-size: 25px;
+}
+.input .iconss
+{
+    justify-content: center;
+}
+.facebook .fa-instagram
+{
+    font-size: 40px;
+    
+}
+
+.facebook .fa-facebook
+{
+    font-size: 40px;
+    
+}
+
+.scetion-3 .one
+{
+    flex-direction: column;
+}
+
+.one .twoline
+{
+    margin: 10px;
+}
+}
+
+
+@media (max-width:500px) {
+
+
+
+    .menubar ul {
+        display: none;
+        width: 100%;
+        background: #303030;
+        position: absolute;
+        left: 0px;
+        top: 180px;
+
+    }
+
+    ul li {
+        padding: 15px;
+        text-align: center;
+    }
+
+    span {
+        display: block;
+        position: absolute;
+        left: 420px;
+        top: 80px;
+        color: #fff;
+    }
+
+    .button .sign {
+        position: absolute;
+        left: 280px;
+        top: 110px;
+    }
+
+    .image img {
+        display: none;
+    }
+
+    /* navigation part is close */
+
+    .container {
+        height: auto;
+        width: 100%;
+        flex-direction: column;
+
+    }
+
+    .container .text {
+        height: 500px;
+        width: 100%;
+    }
+
+    .container .background {
+        height: 500px;
+        width: 100%;
+        margin-top: 30px;
+    }
+
+    
+.plant 
+{
+    position: absolute;
+    left:0%;
+    top:920px;
+}
+
+.text h2 
+{
+    
+    font-size: 28px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.text p 
+{
+    
+    font-size: 32px;
+    text-align: center;
+    
+}
+.expole
+{
+    margin-left: 80px;
+    margin-top: 50px;
+}
+.seemenu
+{
+    margin-left: 0px;
+}
+
+.table
+{
+    margin: 0px auto;
+    flex-direction: column;
+}
+
+.box h3 
+{
+    text-align: center;
+}
+.box button
+{
+    margin-left: 110px;
+}
+/* container part is close */
+/* header part is close */
+/* header part is close */
+
+.section-1 .food
+{
+    height: 200px;
+    width:100% ;
+}
+.section-1 .card 
+{
+    height: 500px;
+    width: 100%;
+}
+
+.section-1 .card 
+{
+    flex-direction: column;
+    align-items: center;
+    height: auto;
+    width: 100%;
+    
+}
+
+.card .card-2
+{
+    margin-top: 10px;
+}
+
+
+
+.button button
+{
+    margin-left: 45px;
+}
+
+/* <!-- section-1 part is close --> */
+
+.section-2 
+{
+    height: auto;
+    width: 100%;
+}
+
+.covid .img-1 
+{
+    /* display: none; */
+}
+
+
+
+.covid .word 
+{
+    display: none;
+}
+.word img 
+{
+    display: none;
+}
+
+.covid .img-2 
+{
+    display: none;
+}
+.table-1 img 
+{
+    height: 100%;
+    width: 100%;
+}
+
+.img-1 button
+{
+    margin-left: 120px;
+}
+
+.tableshow
+{
+    flex-direction: column;
+}
+
+.tableshow .table-1 
+{
+    margin-top: 13px;
+}
+
+
+/* covid part is close */
+
+.container-2
+{
+    flex-direction: column;
+}
+
+.story .textword
+{
+    margin: 30px auto;
+    border: none;
+}
+
+.imggg-1
+{
+    display: none;
+}
+.Plant-1
+{
+    display: none;
+}
+/* container-2 part is close */
+
+.container-3
+{
+    flex-direction: column;
+}
+
+
+.container-3 .fishpic
+{
+    
+    height: 500px;
+    width: 100%;
+    border: 1px solid #000;
+    
+    
+}
+
+
+.container-3 .fresh
+{
+    
+   
+    width: 100%;
+    border: 1px solid #000;
+    margin-right: 0px;
+    margin-top: 10px;
+}
+.fresh h3
+{
+   text-align: center;
+}
+.fresh h4 
+{
+    text-align: center;
+}
+.fresh p 
+{
+    text-align: center;
+}
+.fresh button
+{
+    margin-left: 170px;
+}
+
+/* container-3 part is close */
+
+.container-4 .chef
+{
+    flex-direction: column;
+}
+
+
+
+.chef .thechef
+{
+    margin-left: 0px;
+}
+
+.thecheff h3
+{
+   text-align: center;
+}
+.thecheff h4 
+{
+    text-align: center;
+}
+.thecheff p 
+{
+    text-align: center;
+}
+.thecheff button
+{
+    margin-left: 130px;
+}
+
+
+.chef .chefman
+{
+    margin-top: 20px;
+}
+
+.chefman img 
+{
+    height: 150px;
+    width: 200px;
+}
+/* section-2 is close */
+
+.scetion-3 .one
+{
+    flex-direction: column;
+}
+/* section-3 is close */
+
+.maninfo .manimg
+{
+    width: 100%;
+}
+.scetion-4 .form
+{
+    width: 100%;
+}
+
+.form .formtext
+{
+    width: 100%;
+}
+.form .formfill
+{
+    width: 100%;
+}
+.Leaf 
+{
+    display: none;
+}
+
+
+.Leaf-2 
+{
+    display: none;
+}
+
+
+.Lemon 
+{
+    display: none;
+}
+
+
+.Avocado 
+{
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer-1 .footertext
+{
+    height: auto;
+    width: 100%;
+    /* border: 1px solid #000; */
+}
+footer .footer-1
+{
+    flex-direction: column;
+}
+
+
+.input
+{
+    height: 400px;
+    width: 100%;
+    /* border: 1px solid green; */
+}
+.input h1
+{
+    font-size: 30px;
+    text-align: center;
+}
+.input .iconss
+{
+    height: 80px;
+    width: 400px;
+    border: 1px solid #000;
+   margin: 30px auto;
+}
+.facebook .fa-instagram
+{
+    font-size: 50px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.facebook .fa-facebook
+{
+    font-size: 50px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.text-1 h2 
+{
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.text-1 li 
+{
+    padding: 5px;
+    text-align: center;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #404040;
+}
+
+.facebook
+{
+    height: 50px;
+    width: 50px;
+}
+
+.facebook .fa-facebook
+{
+    font-size: 20px;
+    
+}
+
+.facebook .fa-instagram
+{
+    font-size: 20px;
+    
+}
+}
